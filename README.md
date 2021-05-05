@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmkarGurav6&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
-[![Omkar's Github Stats](https://github-readme-stats.vercel.app/api?username=OmkarGurav6&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Omkar's Github Stats](https://github-readme-stats.vercel.app/api?username=OmkarGurav6&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarGurav6&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarGurav6&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=OmkarGurav6&color=202020&label=Profile+Views)
 
