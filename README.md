@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmkarGurav6&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
 [![Omkar's Github Stats](https://github-readme-stats.vercel.app/api?username=OmkarGurav6&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
